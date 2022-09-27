@@ -10,15 +10,11 @@ jobs:
       - name: Generate main metrics badge
         uses: lowlighter/metrics@latest
         with:
+          filename: metrics.plugin.isocalendar.fullyear.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          plugin_lines: yes
-          base_indepth: yes
-          plugin_licenses: yes
+          base: ""
           plugin_isocalendar: yes
-          filename: metrics.svg
-          plugin_lines_repositories_limit: 100
           plugin_isocalendar_duration: full-year
-          repositories_affiliations: owner, collaborator
 
       - name: Generate achievements metrics badge
         uses: lowlighter/metrics@latest
