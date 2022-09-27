@@ -10,7 +10,7 @@ jobs:
       - name: Generate main metrics badge
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_CI }}
+          token: ${{ secrets.METRICS_TOKEN }}
           plugin_lines: yes
           base_indepth: yes
           plugin_licenses: yes
@@ -23,7 +23,7 @@ jobs:
       - name: Generate achievements metrics badge
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_CI }}
+          token: ${{ secrets.METRICS_TOKEN }}
           base: ''
           base_indepth: yes
           plugin_achievements: yes
@@ -35,7 +35,7 @@ jobs:
       - name: Generate language metrics badge
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_CI }}
+          token: ${{ secrets.METRICS_TOKEN }}
           base_indepth: yes
           base: ''
           plugin_languages: yes
