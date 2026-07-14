@@ -5,7 +5,7 @@
   <a href="mailto:g.aghajanyan1995@gmail.com">g.aghajanyan1995@gmail.com</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/gevorg-aghajanyan-31a809144/">LinkedIn</a> &nbsp;·&nbsp;
   <a href="https://github.com/gevaghajanyan">GitHub</a> &nbsp;·&nbsp;
-  <a href="./gevorg.aghajanyan.cv.md">Full CV</a>
+  <a href="./gevorg.aghajanyan.cv.pdf">Full CV</a>
 </p>
 
 ---
