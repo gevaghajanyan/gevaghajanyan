@@ -2,7 +2,7 @@
 
 **Senior Software Engineer** · Yerevan, Armenia
 
-[gevaghajanyan.github.io](https://gevaghajanyan.github.io) · [g.aghajanyan1995@gmail.com](mailto:gev.aghajanian@gmail.com) · [LinkedIn](https://www.linkedin.com/in/gevorg-aghajanyan-31a809144/) · [GitHub](https://github.com/gevaghajanyan) · [CV (PDF)](./gevorg.aghajanyan.cv.pdf)
+[gevaghajanyan.github.io](https://gevaghajanyan.github.io) · [gev.aghajanian@gmail.com](mailto:gev.aghajanian@gmail.com) · [LinkedIn](https://www.linkedin.com/in/gevorg-aghajanyan-31a809144/) · [GitHub](https://github.com/gevaghajanyan) · [CV (PDF)](./gevorg.aghajanyan.cv.pdf)
 
 ---
 
